@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2288-count-operations-to-obtain-zero](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [2288-count-operations-to-obtain-zero](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Number Theory
 |  |
 | ------- |
