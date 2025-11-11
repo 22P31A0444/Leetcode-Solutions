@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [2561-number-of-distinct-averages](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3778-transform-array-by-parity](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [2561-number-of-distinct-averages](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [2561-number-of-distinct-averages](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3778-transform-array-by-parity](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [2561-number-of-distinct-averages](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
