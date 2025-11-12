@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1115-valid-boomerang](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1115-valid-boomerang](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [2288-count-operations-to-obtain-zero](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [1115-valid-boomerang](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 ## Greedy
 |  |
 | ------- |
