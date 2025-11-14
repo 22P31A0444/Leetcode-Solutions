@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1961-maximum-ice-cream-bars](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [1983-maximum-population-year](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2561-number-of-distinct-averages](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3778-transform-array-by-parity](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1983-maximum-population-year](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3778-transform-array-by-parity](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Math
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [1983-maximum-population-year](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 ## Two Pointers
 |  |
 | ------- |
