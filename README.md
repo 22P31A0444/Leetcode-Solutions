@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2561-number-of-distinct-averages](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3778-transform-array-by-parity](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2288-count-operations-to-obtain-zero](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
