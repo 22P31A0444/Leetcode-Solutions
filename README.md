@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1961-maximum-ice-cream-bars](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->
