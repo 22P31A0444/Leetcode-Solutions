@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1961-maximum-ice-cream-bars](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
