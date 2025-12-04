@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1115-valid-boomerang](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
