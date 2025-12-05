@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0819-most-common-word](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0830-largest-triangle-area](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0819-most-common-word](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1983-maximum-population-year](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3778-transform-array-by-parity](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
