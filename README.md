@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1983-maximum-population-year](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
