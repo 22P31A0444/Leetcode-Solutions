@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0819-most-common-word](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1983-maximum-population-year](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [2486-most-frequent-even-element](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3778-transform-array-by-parity](https://github.com/22P31A0444/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
